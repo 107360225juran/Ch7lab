@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\c_code\lab2\source\main.c(43): warning C4047: '==': 'int' 與 'void *' 間接取值的層級不同
+c:\c_code\lab2\source\main.c(49): warning C4477: 'printf' : 格式字串 '%-6d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+c:\c_code\lab2\source\main.c(49): warning C4477: 'printf' : 格式字串 '%10.2f' 需要 'double' 類型的引數，但 variadic 引數 4 的類型為 'char *'
+  ch7-lab2.vcxproj -> C:\C_code\lab2\ch7-lab2\ch7-lab2\..\..\temp\debug\ch7-lab2.exe
